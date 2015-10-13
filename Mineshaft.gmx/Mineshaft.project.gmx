@@ -41,6 +41,8 @@
       <sprite>sprites\spr_cobblestone_item</sprite>
       <sprite>sprites\spr_wood_oak_item</sprite>
       <sprite>sprites\spr_wood_birch_item</sprite>
+      <sprite>sprites\spr_planks_oak_item</sprite>
+      <sprite>sprites\spr_planks_birch_item</sprite>
     </sprites>
   </sprites>
   <backgrounds name="background"/>
@@ -66,6 +68,7 @@
       <object>objects\obj_stone</object>
       <object>objects\obj_bedrock</object>
       <object>objects\obj_planks_oak</object>
+      <object>objects\obj_planks_birch</object>
     </objects>
     <objects name="gpr_player">
       <object>objects\obj_player</object>
@@ -167,6 +170,8 @@
       <object>objects\obj_cobblestone_item</object>
       <object>objects\obj_wood_oak_item</object>
       <object>objects\obj_wood_birch_item</object>
+      <object>objects\obj_planks_oak_item</object>
+      <object>objects\obj_planks_birch_item</object>
     </objects>
   </objects>
   <rooms name="rooms">

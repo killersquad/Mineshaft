@@ -30,16 +30,22 @@ spr[1] = spr_dirt_item;
 spr[2] = spr_cobblestone_item;
 spr[3] = spr_wood_oak_item;
 spr[4] = spr_wood_birch_item;
+spr[5] = spr_planks_oak;
+spr[6] = spr_planks_birch;
 
 item[1] = obj_dirt_item;
 item[2] = obj_cobblestone_item;
 item[3] = obj_wood_oak_item;
 item[4] = obj_wood_birch_item;
+item[5] = obj_planks_oak;
+item[6] = obj_planks_birch;
 
 obj[1] = obj_dirt;
 obj[2] = obj_cobblestone;
 obj[3] = obj_wood_oak;
 obj[4] = obj_wood_birch;
+obj[5] = obj_planks_oak;
+obj[6] = obj_planks_birch;
 
 for (i=0; i&lt;40; i+=1)
 {
