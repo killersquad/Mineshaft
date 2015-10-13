@@ -51,10 +51,10 @@
             <kind>1</kind>
             <string>index = 0;
 hardness = 1
-image_index = 0;
 breaking = false;
 item = obj_dirt_item;
 image_speed = 0;
+image_index = 0;
 </string>
           </argument>
         </arguments>
