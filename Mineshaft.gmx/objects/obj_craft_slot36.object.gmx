@@ -3,7 +3,7 @@
   <spriteName>spr_inv_slot</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>-100000</depth>
+  <depth>-1000</depth>
   <persistent>0</persistent>
   <parentName>obj_craft_control</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -25,10 +25,7 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible = false;
-vis = false
-image_speed = 0;
-index = 36;
+            <string>index = 36;
 </string>
           </argument>
         </arguments>
