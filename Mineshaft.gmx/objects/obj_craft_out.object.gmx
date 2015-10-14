@@ -25,9 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible = false;
-vis = false
-image_speed = 0;
+            <string>index = 40;
+
 </string>
           </argument>
         </arguments>

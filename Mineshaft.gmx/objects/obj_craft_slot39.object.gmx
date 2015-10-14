@@ -3,7 +3,7 @@
   <spriteName>spr_inv_slot</spriteName>
   <solid>0</solid>
   <visible>-1</visible>
-  <depth>-100</depth>
+  <depth>-1000</depth>
   <persistent>0</persistent>
   <parentName>obj_craft_control</parentName>
   <maskName>&lt;undefined&gt;</maskName>
@@ -25,11 +25,8 @@
         <arguments>
           <argument>
             <kind>1</kind>
-            <string>visible = false;
-vis = false
-image_speed = 0;
+            <string>index = 39;
 
-index = 39;
 </string>
           </argument>
         </arguments>
@@ -54,29 +51,6 @@ index = 39;
             <kind>1</kind>
             <string>x = obj_inv.x+50;
 y = obj_inv.y-53;
-
-if keyboard_check_pressed(ord("E"))
-{
-    if vis = false
-    {
-        vis = true;
-    }
-    else
-    {
-        vis = false;
-    }
-}
-if vis = true
-{
-    visible = true;
-}
-if vis = false
-{
-    visible = false;
-}
-
-
-
 
 </string>
           </argument>
