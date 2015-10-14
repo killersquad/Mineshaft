@@ -53,6 +53,8 @@
 hardness = 3;
 index = 0;
 item = obj_cobblestone_item;
+image_speed = 0;
+image_index = 1;
 </string>
           </argument>
         </arguments>

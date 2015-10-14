@@ -29,6 +29,8 @@
 index = 0;
 breaking = false;
 item = 0;
+image_speed = 0;
+image_index = 1;
 </string>
           </argument>
         </arguments>

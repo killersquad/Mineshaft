@@ -28,7 +28,7 @@
             <string>alarm[1] = 2;
 index = 0;
 image_speed = 0;
-image_index = 0;
+image_index = 1;
 breaking = false;
 hardness = 1;
 item = obj_dirt_item;

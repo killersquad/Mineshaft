@@ -30,7 +30,7 @@ hardness = 1.2
 breaking = false;
 item = obj_planks_birch_item;
 image_speed = 0;
-image_index = 0;
+image_index = 1;
 </string>
           </argument>
         </arguments>
