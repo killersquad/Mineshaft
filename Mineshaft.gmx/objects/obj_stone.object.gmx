@@ -53,8 +53,8 @@
 index = 0;
 breaking = false;
 item = obj_cobblestone_item;
-image_index = 0;
 image_speed = 0;
+image_index = 1;
 
 
 //bedrock

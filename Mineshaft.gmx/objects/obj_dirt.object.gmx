@@ -54,7 +54,7 @@ hardness = 1
 breaking = false;
 item = obj_dirt_item;
 image_speed = 0;
-image_index = 0;
+image_index = 1;
 </string>
           </argument>
         </arguments>
