@@ -29,6 +29,8 @@
 index = 0;
 breaking = false;
 item = obj_wood_birch_item;
+image_index = 1;
+image_speed = 0;
 </string>
           </argument>
         </arguments>
